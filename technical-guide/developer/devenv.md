@@ -80,7 +80,7 @@ The frontend build process is located on the tmux **window 0** and
 **window 1**. On the **window 0** we have the gulp process responsible
 of watching and building styles, fonts, icon-spreads and templates.
 
-On the **window 1** we can found the **shadow-cljs** process that is
+On the **window 1** we can find the **shadow-cljs** process that is
 responsible on watch and build frontend clojurescript code.
 
 Additionally to the watch process you probably want to be able open a REPL
